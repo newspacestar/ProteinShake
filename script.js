@@ -17,5 +17,3 @@ for (let i = 1; i <= days; i++) {
     total += oddDayAmount;
   }
 }
-
-console.log(total)
